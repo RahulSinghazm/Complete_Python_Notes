@@ -1,6 +1,32 @@
 # Complete_Python_Notes
 Python_eBook
 
+#Features of Python
+
+1. Simple
+Reading a good Python program feels almost like reading English( very strict English).                                This pseudo-code nature of Python is one of its greatest strengths. It allows you to concentrate on the    solution to the problem rather than the language itself.
+2. Easy to Learn
+Python is extremely easy to learn because  Python has an extraordinarily simple syntax.                           Elegant syntax, making the programs you write easier to read.  
+3. Free and Open Source
+Python is an example of a FLOSS (Free/LibrÃ© and Open Source Software). In simple terms, you can freely distribute copies of this software, read it's source code, make changes to it, use pieces of it in new free programs, and that you know you can do these things. This is one of the reasons why Python is so good.
+4. High-level Language
+When you write programs in Python, you never need to bother about the low-level details such as managing the memory used by your program, etc.
+5. Portable
+Due to its open-source nature, Python has been ported (i.e. changed to make it work on) to many platforms. All your Python programs can work on any of these platforms without requiring any changes at all.                                         You can use Python on Linux, Windows, FreeBSD, Macintosh, Solaris, OS/2, Amiga, AROS, AS/400, BeOS, OS/390, z/OS, Palm OS, QNX, VMS, Psion, Acorn RISC OS, VxWorks, PlayStation, Sharp Zaurus, Windows CE and even PocketPC !
+6. Interpreted
+A program written in a compiled language like C or C++ is converted from the source language i.e. C or C++ into a language that is spoken by your computer (binary code i.e. 0s and 1s) using a compiler with various flags and options. When you run the program, the linker/loader software copies the program from hard disk to memory and starts running it.
+Python, on the other hand, does not need compilation to binary. You just run the program directly from the source code. Internally, Python converts the source code into an intermediate form called bytecodes and then translates this into the native language of your computer and then runs it. All this, actually, makes using Python much easier since you don't have to worry about compiling the program, making sure that the proper libraries are linked and loaded, etc, etc. This also makes your Python programs much more portable, since you can just copy your Python program onto another computer and it just works.
+7. Procedure Oriented and Object Oriented
+Python supports procedure-oriented programming as well as object-oriented programming. In procedure-oriented languages, the program is built around procedures or functions which are nothing but reusable pieces of programs. In object-oriented languages, the program is built around objects which combine data and functionality. Python has a very powerful but simplistic way of doing OOP, especially when compared to big languages like C++ or Java.
+8. Extensible
+If you need a critical piece of code to run very fast or want to have some piece of algorithm not to be open, you can code that part of your program in C or C++ and then use them from your Python program.
+9. Embeddable
+You can embed Python within your C/C++ programs to give 'scripting' capabilities for your program's users.
+10. Extensive Libraries
+The Python Standard Library is huge indeed. It can help you do various things involving regular expressions, documentation generation, unit testing, threading, databases, web browsers, CGI, ftp, email, XML, XML-RPC, HTML, WAV files, cryptography, GUI (graphical user interfaces), Tk, and other system-dependent stuff. Remember, all this is always available wherever Python is installed. This is called the 'Batteries Included' philosophy of Python.
+
+
+
 
 
 # The Python Tutorial
