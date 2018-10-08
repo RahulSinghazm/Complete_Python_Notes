@@ -169,7 +169,7 @@ The Glossary is also worth going through.
 16.1.1. Error Handling
 16.1.2. Executable Python Scripts
 16.1.3. The Interactive Startup File
-16.1.4. The Customization Modules
+16.1.4. The Customization Modules.
 
 All topic include in this website--->>>
                                         You can open and learn it.....
