@@ -1,7 +1,7 @@
 # Complete_Python_Notes
 Python_eBook
 
-#Features of Python
+# Features of Python
 
 1. Simple
 Reading a good Python program feels almost like reading English( very strict English).                                This pseudo-code nature of Python is one of its greatest strengths. It allows you to concentrate on the    solution to the problem rather than the language itself.
